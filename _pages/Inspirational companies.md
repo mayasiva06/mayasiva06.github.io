@@ -16,3 +16,5 @@ A curated overview of the institutions, industry pioneers, and strategic framewo
 *   **Barclays:** Barclays interests me because of its strong UK presence and involvement in both markets and client-facing financial services. I like the combination of analytical work and communication with clients.
 *   **Accenture:** Accenture appeals to me because of its project-based work and focus on solving real business problems. I enjoy structured problem-solving combined with teamwork and client interaction.
 *   **McKinsey & Company:** McKinsey interests me because of its analytical approach to business problems and emphasis on structured thinking. I like the idea of applying logic and data to strategic decision-making.
+- title: "Inspirational companies"
+    url: /inspirational companies/
