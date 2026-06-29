@@ -8,7 +8,7 @@ author_profile: true
 ## 🎓 Education
 * **Cardiff University** | *BSc Financial Mathematics* | **2025 – Present**
   * **Key Modules:** Calculus, Linear Algebra, Probability & Statistics, Foundations of Finance, Operational Research.
-* **Dr Challoners High School / Sixth Form** | **2019 – 2024**
+* **Dr Challoners High School / Sixth Form** | **2017 – 2024**
   * **A-Levels:** Mathematics, Physics, Chemistry | Extended Project Qualification (EPQ)
   * **GCSEs:** 9 GCSEs including Mathematics, English, and Sciences (Grades 9–6 / A*–B equivalent)
 
