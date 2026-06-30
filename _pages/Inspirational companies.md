@@ -1,9 +1,4 @@
----
-layout: archive
-title: "Market Insights & Industry Inspiration"
-permalink: /inspiration/
-author_profile: true
----
+
 A curated overview of the institutions, industry pioneers, and strategic frameworks that shape my approach to financial mathematics, risk management, and modern commercial awareness.
 
 ### Global Banking & Market Maker Frameworks
