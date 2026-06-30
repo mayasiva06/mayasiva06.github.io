@@ -1,33 +1,37 @@
 ---
-layout: homepage
-title: "About Me"
+layout: about
+title: "Quantitative Finance Portfolio"
 permalink: /
 author_profile: true
 ---
 
-# Welcome to My Portfolio
+I am a First-Year **Financial Mathematics BSc** student at **Cardiff University** focused on the application of statistical modeling, probability, and algorithmic logic to global markets and enterprise risk frameworks. 
 
-I am a First-Year **Financial Mathematics BSc** student at **Cardiff University** with a deep interest in quantitative risk management, financial modeling, and global market dynamics. 
-
-My academic journey combines rigorous mathematical frameworks—such as calculus, linear algebra, and probability theory—with practical data analytics and programming techniques to dissect complex financial systems.
+My academic foundation combines rigorous mathematical theory with hands-on programming analytics to dissect asset volatility and systemic financial architectures.
 
 ---
 
-## 🚀 Key Highlights
+## 📈 Corporate Simulations & Certifications
 
-* **Quantitative Engineering:** Developed custom data analytics pipelines in Python to extract market metrics, evaluate equity volatility, and measure asset risk-adjusted returns (Sharpe Ratios).
-* **Commercial Awareness:** Completed specialized corporate insights with industry leaders, including **Goldman Sachs** (Global Markets & Risk Management), **Bank of America** (Investment Banking), and **Rolls-Royce**.
-* **Analytical Foundations:** Award winner in the UK Mathematics Trust (UKMT) Senior Challenge, alongside background studies in the British Physics Olympiad and Cambridge Chemistry Challenge.
+Rather than passive learning, I actively utilize institutional simulation platforms to map theoretical mathematical risk to real-world market scenarios.
 
----
-
-## 🛠️ Technical Competencies
-
-* **Programming & Data Sourcing:** Python (Pandas, NumPy, Matplotlib, YFinance)
-* **Systems & Software:** Microsoft Excel (Advanced modeling/formulas), LaTeX, Google Suite
-* **Core Methodologies:** Statistical Modeling, Asset Return Analysis, Risk Scenario Planning, Quantitative Logic
+*   **Goldman Sachs — Global Markets & Risk Management Simulation**
+    *   *Core Focus:* Modeled asset volatility, evaluated liquidity risk matrices, and analyzed market-making decisions under high-pressure macro environments.
+*   **Citigroup — Global Consumer Banking & Markets Insight Simulation**
+    *   *Core Focus:* Analyzed international risk frameworks, evaluated corporate data inputs, and reviewed capital allocation strategies against varying cross-border market behaviors.
+*   **UK Mathematics Trust (UKMT):** Senior Challenge Award Winner.
 
 ---
 
-## 📬 Connect with Me
-I am actively pursuing **Summer 2027 Internship opportunities** and Spring Insight weeks within finance, data consulting, and risk divisions. Feel free to explore my full [Curriculum Vitae](/cv/) or review the market leaders and thinkers driving my career track on my [Inspiration Page](/inspiration/).
+## 💻 Technical Capabilities
+
+*   **Quantitative Scripting:** Python (Pandas, NumPy, Matplotlib, YFinance)
+*   **Modeling Frameworks:** Risk-Adjusted Returns (Sharpe Ratio), Asset Volatility Mapping, Statistical Logic
+*   **Core Systems:** Advanced Microsoft Excel, LaTeX mathematical formatting
+
+---
+
+## 📬 Engagement & Opportunities
+I am actively positioning myself for **Summer 2027 Internships** and corporate Spring Insight weeks across Risk Management, Quantitative Analytics, and Global Markets divisions. 
+
+Explore my detailed [Curriculum Vitae](/cv/) or review the market frameworks driving my career strategy on my [Market Inspiration Page](/inspiration/).
